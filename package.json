@@ -1,0 +1,28 @@
+{
+  "name": "w5_code_chal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LohmannTim/W5_code_chal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LohmannTim/W5_code_chal/issues"
+  },
+  "homepage": "https://github.com/LohmannTim/W5_code_chal#readme",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.9",
+    "node": "^8.3.0",
+    "pg": "^7.2.0"
+  }
+}
